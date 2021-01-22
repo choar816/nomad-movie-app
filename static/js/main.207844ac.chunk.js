@@ -1,2 +1,0 @@
-(this.webpackJsonpnomad_movie_app=this.webpackJsonpnomad_movie_app||[]).push([[0],{9:function(e,n,t){"use strict";t.r(n);var o=t(1),c=t(0),r=t.n(c),s=t(3);var a=function(){return Object(o.jsx)("span",{children:"something"})};t.n(s).a.render(Object(o.jsx)(r.a.StrictMode,{children:Object(o.jsx)(a,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.207844ac.chunk.js.map
